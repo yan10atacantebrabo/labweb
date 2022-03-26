@@ -13,10 +13,11 @@ function Home() {
                  <h1>Conheça o melhor catálogo de produtos</h1>
                  <p>Ajudaremos você a encontrar os melhores produtos disponiveis no mercado.</p>
                  </div>
+                 <div>
                  <Link to="/products">
                  <ButtonIcon />
                  </Link>
-                 
+                 </div>
              </div>
              <div className="home-image-container">
              <MainImage />
